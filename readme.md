@@ -16,9 +16,6 @@ Este projeto tem como objetivo desenvolver um modelo de Machine Learning para pr
 │── 📄 README.md          # Descrição do projeto
 │── 📂 data               # Dados do projeto
 │   ├── dataicecream.csv  # Dataset utilizado
-│── 📂 notebooks          # Notebooks Jupyter
-│   ├── Exploracao_dados.ipynb  # Análise exploratória
-│   ├── Treinamento_Modelo.ipynb  # Treinamento do modelo
 │── 📂 src                # Código-fonte do projeto
 │   ├── modelo.py         # Script para treinar o modelo
 │   ├── previsao.py       # Script para realizar previsões
